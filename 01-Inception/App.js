@@ -15,3 +15,4 @@
  const container = React.createElement("div", {}, [heading1, heading2]);
  const reactroot = ReactDOM.createRoot(document.getElementById("reactroot"));
  reactroot.render(container);
+ 
