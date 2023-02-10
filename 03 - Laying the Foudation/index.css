@@ -1,0 +1,33 @@
+.logo {
+  width: 170px;
+}
+
+.avatar img {
+  width: 48px;
+  height: 48px;
+  object-fit: contain;
+  padding-right: 20px;
+}
+
+.container {
+  display: flex;
+  margin: 0;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white;
+  box-shadow: 10px 5px 15px rgb(216, 216, 216);
+  padding: 10px;
+}
+
+.searchBar {
+  padding: 16px 20px;
+  width: 200%;
+  border-radius: 10px;
+  border-style: none;
+  border-color: rgb(169, 169, 169);
+  background: #e6e6e6;
+}
+
+body {
+  margin: 0;
+}
